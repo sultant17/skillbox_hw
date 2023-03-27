@@ -1,2 +1,2 @@
 # skillbox_hw
-Homework for skillbox
+Goal was to develop an ML model learning pipeline.
